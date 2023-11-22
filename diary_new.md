@@ -1,6 +1,6 @@
 # 日记
 
-(changed)
+(changed) BRANCH
 
 ## 日记本 2018.6.16-2022.1.12
 
